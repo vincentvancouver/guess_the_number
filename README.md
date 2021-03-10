@@ -1,2 +1,2 @@
 # guess_the_number
-A game in which you must correctly guess the number in 5 tries.
+You have 5 tries to guess the correct number randomly generated between 1-100.
